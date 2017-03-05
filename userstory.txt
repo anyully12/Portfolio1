@@ -1,0 +1,8 @@
+puts 'As an: customer of a car rental company
+I want to: Rent a car
+So that: I can drive around with it for a short period of time
+Example scenarios:
+-There are cars available
+-There aren’t any cars available
+-There aren’t any affordable cars available
+-The kind of car that I need (truck, hatchback, van) isn’t available'
